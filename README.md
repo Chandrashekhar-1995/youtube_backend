@@ -11,4 +11,5 @@ add pretter config
     - Install mongoose-aggregate-paginate-v2
     - Install bcrypt and jsonwebtoken
     - write methods
-
+    - Install cloudinary and multer
+    - write code for cloudinary 
