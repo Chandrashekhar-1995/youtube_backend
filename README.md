@@ -8,4 +8,7 @@ add pretter config
     - Write Api Error handler utility fn
     - User Model Schema
     - Video Model Schema
+    - Install mongoose-aggregate-paginate-v2
+    - Install bcrypt and jsonwebtoken
+    - write methods
 
