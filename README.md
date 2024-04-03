@@ -13,3 +13,6 @@ add pretter config
     - write methods
     - Install cloudinary and multer
     - write code for cloudinary 
+    - Write code for multer middleware
+    - User controller
+    - Create user Routes
