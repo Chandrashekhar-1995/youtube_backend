@@ -16,3 +16,4 @@ add pretter config
     - Write code for multer middleware
     - User controller
     - Create user Routes
+    - Route checked ok
