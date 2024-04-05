@@ -17,3 +17,4 @@ add pretter config
     - User controller
     - Create user Routes
     - Route checked ok
+    - Ragistring User done
