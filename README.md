@@ -21,3 +21,4 @@ add pretter config
     - Setup Login 
     - Logout setup
     - Add refresh token end point
+    - Add subscription model
