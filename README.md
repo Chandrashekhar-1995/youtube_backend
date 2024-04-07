@@ -19,3 +19,4 @@ add pretter config
     - Route checked ok
     - Ragistring User done
     - Setup Login 
+    - Logout setup
