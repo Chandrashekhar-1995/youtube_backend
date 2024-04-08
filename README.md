@@ -24,3 +24,4 @@ add pretter config
     - Add subscription model
     - change current password
     - get current user
+    - Update Account Details
