@@ -22,3 +22,5 @@ add pretter config
     - Logout setup
     - Add refresh token end point
     - Add subscription model
+    - change current password
+    - get current user
