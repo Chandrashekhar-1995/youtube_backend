@@ -25,3 +25,4 @@ add pretter config
     - change current password
     - get current user
     - Update Account Details
+    - Update Cover and Avatar Image
