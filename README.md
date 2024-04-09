@@ -28,3 +28,4 @@ add pretter config
     - Update Cover and Avatar Image
     - User Channel Profile Pipeline
     - User Watch History Pipeline
+    - Add routes for user controller
