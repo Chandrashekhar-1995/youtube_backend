@@ -26,4 +26,5 @@ add pretter config
     - get current user
     - Update Account Details
     - Update Cover and Avatar Image
-    - User Channel Profile controller
+    - User Channel Profile Pipeline
+    - User Watch History Pipeline
