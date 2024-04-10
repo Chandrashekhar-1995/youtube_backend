@@ -31,3 +31,4 @@ add pretter config
     - Add routes for user controller
     - Add comment model
     - Add like model
+    - Add Playlist model
