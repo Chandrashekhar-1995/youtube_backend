@@ -30,3 +30,4 @@ add pretter config
     - User Watch History Pipeline
     - Add routes for user controller
     - Add comment model
+    - Add like model
