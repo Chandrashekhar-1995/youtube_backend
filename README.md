@@ -32,3 +32,4 @@ add pretter config
     - Add comment model
     - Add like model
     - Add Playlist model
+    - Add Tweet model
