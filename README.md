@@ -29,3 +29,4 @@ add pretter config
     - User Channel Profile Pipeline
     - User Watch History Pipeline
     - Add routes for user controller
+    - Add comment model
