@@ -118,3 +118,22 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+
+
+
+# Assignments
+video.controller.js
+healthcheck.controller.js
+like.controller.js
+playlist.controller.js
+subscription.controller.js
+tweet.controller.js
+comment.controler.js
+dashboard.controller.js
+comment.routes.js
+dashboard.routes.js
+healthcheck.routes.js
+like.routes.js
+playlist.routes.js
+subscription.routes.js
+tweet.routes.js
